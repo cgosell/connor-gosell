@@ -36,6 +36,7 @@ const projects = [
 		services: ["Annuals", "Perrenials", "Trees", "Shrubs", "Produce"],
 		servicesLink: "https://gosellgardens.com",
 		link: "https://gosellgardens.com",
+		email: "connor@gosellgardens.com",
 		active: true,
 	},
 	{
@@ -77,6 +78,11 @@ function Projects() {
 		<Box my={4}>
 			<Typography variant="h2" gutterBottom>
 				Projects & Companies
+			</Typography>
+			<Typography variant="body1" gutterBottom>
+				All of these projects were created by Connor Gosell. Some are active and
+				some are not. If you have any questions about any of these projects,
+				feel free to reach out to me.
 			</Typography>
 			<Grid container spacing={4}>
 				{projects.map((project, index) => (

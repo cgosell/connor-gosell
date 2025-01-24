@@ -31,20 +31,21 @@ function AboutMe() {
 						joined a fortune 100 company working on internal enterprise level
 						softeware. I've since worked in various industries including
 						agriculture, logistics, finance, and technology. I've worked with
-						various technologies including Javascript, Node.js, React, and many
-						others.
+						various technologies including Javascript, Node.js, React,
+						PostgreSQL and many others.
 					</Typography>
 					<Typography variant="body1" mt={2}>
-						I've come to manage many projects, build a few companies and grow a
-						few concepts into ideas. I've built a web app with over $100,000 in
-						processed sales. I've worked with various companies and technologies
-						to improve business flow and bottom line revenue. I've also worked
-						with many individuals to improve their security and reduce their
-						risk.
+						I've come to build a few projects, grow(and fail) a few companies
+						and excecute on some really cool ideas. I've built a web app with
+						over $100,000 in processed sales. I've worked with various companies
+						and technologies to improve business flow and bottom line revenue.
+						I've also worked with many individuals to improve their security and
+						reduce their risk.
 					</Typography>
 					<Typography variant="body1" mt={2}>
-						When i'm not working, i like to spend time with my family and
-						friends. I also enjoy the outdoors, traveling and trying new things.
+						When i'm not working, you can find me watching hockey, in the
+						garden, or visiting a local brewery. I also enjoy the outdoors and
+						traveling.
 					</Typography>
 				</Grid>
 			</Grid>
