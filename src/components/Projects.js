@@ -40,6 +40,16 @@ const projects = [
 		active: true,
 	},
 	{
+		title: "SnowLoco",
+		description:
+			"SnowLoco allows users to report their own totals and see what others are experiencing, all on an interactive map.",
+		imageUrl:
+			"https://snowloco.com/static/media/snowloco_logo_black.66e1394668b5392b03b2.png",
+		services: ["Snow Reporting", "Interactive Map"],
+		link: "https://snowloco.com",
+		active: true,
+	},
+	{
 		title: "No Line Feast",
 		description:
 			"A food ordering system for restaurants that allows customers to order food from their phone.",
