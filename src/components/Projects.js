@@ -22,7 +22,6 @@ const projects = [
 		imageUrl:
 			"https://allroundcontractingllc.com/static/media/ARC.fce879f1b4533f68cf02.png",
 		services: ["Snow Removal", "Landscaping", "Tree Installation"],
-		servicesLink: "https://allroundcontractingllc.com/services",
 		link: "https://allroundcontractingllc.com",
 		phone: "651-239-4444",
 		email: "contactus@allroundcontractingllc.com",
@@ -34,7 +33,6 @@ const projects = [
 			"Family-owned farm located in Inver Grove Heights, MN offering a wide variety of annuals, perrenials, trees, shrubs and produce for sale.",
 		imageUrl: GosellGardens,
 		services: ["Annuals", "Perrenials", "Trees", "Shrubs", "Produce"],
-		servicesLink: "https://gosellgardens.com",
 		link: "https://gosellgardens.com",
 		email: "connor@gosellgardens.com",
 		active: true,
@@ -47,7 +45,16 @@ const projects = [
 			"https://snowloco.com/static/media/snowloco_logo_black.66e1394668b5392b03b2.png",
 		services: ["Snow Reporting", "Interactive Map"],
 		link: "https://snowloco.com",
+		email: "connor@snowloco.com",
 		active: true,
+	},
+	{
+		title: "Else If Software Development",
+		description:
+			"A software development company specializing in small business web applications and SaaS.",
+		imageUrl: ops,
+		active: true,
+		services: ["Web Applications", "SaaS", "Mobile Applications"],
 	},
 	{
 		title: "No Line Feast",
@@ -66,13 +73,7 @@ const projects = [
 		services: ["Timecard", "Mobile SaaS"],
 		link: "https://antlercard.com",
 	},
-	{
-		title: "Else If Software Development",
-		description:
-			"A software development company specializing in small business web applications and SaaS.",
-		imageUrl: ops,
-		services: ["Web Applications", "SaaS", "Mobile Applications"],
-	},
+
 	{
 		title: "Connors Plants",
 		description:
